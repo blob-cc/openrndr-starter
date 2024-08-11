@@ -13,3 +13,23 @@
 
 - https://github.com/openrndr/openrndr
 - https://github.com/openrndr/openrndr-template
+
+
+
+---
+
+## Colophon
+
+### Contributing
+
+Contributions are welcome! Please fork the repository and submit a pull request with your changes.
+
+### License
+
+This project is licensed under the MIT license. See the [LICENSE](LICENSE) file for details.
+
+### Contact
+
+Swing is developed by [Scape Agency](https://www.scape.agency). For any inquiries or support, please contact us at [info@scape.agency](info@scape.agency).
+
+---
